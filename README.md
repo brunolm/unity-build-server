@@ -18,7 +18,7 @@ This project is a simple Express server for serving static files, with special h
 Go to the build directory:
 
 ```powershell
-npx unity-build-server
+npx @brunolm/unity-build-server
 ```
 
 Open http://localhost:3001/
