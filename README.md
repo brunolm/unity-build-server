@@ -22,3 +22,7 @@ npx unity-build-server
 ```
 
 Open http://localhost:3001/
+
+## Disclaimer
+
+This project is **not associated with, endorsed by, or affiliated with Unity Technologies or any of its subsidiaries**. It is an independent utility helper created solely for serving Unity WebGL builds and related static files. Use at your own risk.
